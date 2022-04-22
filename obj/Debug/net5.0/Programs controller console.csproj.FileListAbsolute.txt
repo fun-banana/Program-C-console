@@ -1,0 +1,16 @@
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.exe
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.deps.json
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.runtimeconfig.json
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.runtimeconfig.dev.json
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.dll
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\ref\Programs controller console.dll
+D:\google drive\Projects\.net\Programs controller console\bin\Debug\net5.0\Programs controller console.pdb
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.csproj.AssemblyReference.cache
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.GeneratedMSBuildEditorConfig.editorconfig
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.AssemblyInfoInputs.cache
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.AssemblyInfo.cs
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.csproj.CoreCompileInputs.cache
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.dll
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\ref\Programs controller console.dll
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.pdb
+D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.genruntimeconfig.cache
