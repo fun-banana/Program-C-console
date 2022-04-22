@@ -1,12 +1,11 @@
 using System.IO;
 using System.Text.Json;
-using System.Diagnostics;
 
-class ProcessInfo
+abstract class ProcessInfo
 {
-    private string _name;
-    private string _path;
-    private bool _status;
+    protected string _name;
+    protected string _path;
+    protected bool _status;
 
     public string Name => _name;
     public string Path => _path;
@@ -47,12 +46,5 @@ class ProcessInfo
         File.WriteAllText(folderPath + '/' + _name + ".json", jsonString);
     }
 
-    public void StartProcess()
-    {
-        ProcessStartInfo start = new ProcessStartInfo();
-        start.FileName = _path;
-        start.UseShellExecute = true;
-        start.CreateNoWindow = false;
-        Process.Start(start);
-    }
+    abstract public void StartProcess();
 }

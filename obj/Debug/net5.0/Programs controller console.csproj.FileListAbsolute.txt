@@ -14,3 +14,19 @@ D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Progr
 D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\ref\Programs controller console.dll
 D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.pdb
 D:\google drive\Projects\.net\Programs controller console\obj\Debug\net5.0\Programs controller console.genruntimeconfig.cache
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.csproj.AssemblyReference.cache
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.AssemblyInfoInputs.cache
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.AssemblyInfo.cs
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.csproj.CoreCompileInputs.cache
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.dll
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\ref\Programs controller console.dll
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.pdb
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.exe
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.deps.json
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.runtimeconfig.json
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.runtimeconfig.dev.json
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.dll
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\ref\Programs controller console.dll
+C:\Users\tarno\Documents\GitHub\Program-C-console\bin\Debug\net5.0\Programs controller console.pdb
+C:\Users\tarno\Documents\GitHub\Program-C-console\obj\Debug\net5.0\Programs controller console.genruntimeconfig.cache
